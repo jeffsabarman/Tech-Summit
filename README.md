@@ -9,7 +9,7 @@ This is my personal project for implementing:
 -  Express JS (Framework)
 -  Postgresql (Database)
 -  Sequelize (ORM)
--  Bcrypt (encrpyt password)
+-  Bcrypt (Encrpyt password)
 
 🟡 Front End Side:
 -  EJS

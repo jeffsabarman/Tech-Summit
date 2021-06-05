@@ -6,12 +6,12 @@ Tech-Summit is an event application where you can login, add event, add speaker,
 This is my personal project for implementing:
 
 🔵 Back End Side:
--  MVC
--  Express JS
--  Postgresql
--  Sequelize
+-  Express JS (Framework)
+-  Postgresql (Database)
+-  Sequelize (ORM)
+-  Bcrypt (encrpyt password)
 
 🟡 Front End Side:
--  HTML
+-  EJS
 -  Bootstrap
 -  Tailwind CSS
